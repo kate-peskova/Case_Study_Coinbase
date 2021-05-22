@@ -1,6 +1,8 @@
 # Case_Study_Coinbase
 Case study on crypto exchange giant Coinbase
 
+![](Images/logo.png)
+
 ## Overview and Origin
 
 Coinbase is one of the leading world’s crypto exchange platforms and the first crypto exchange platform operating in the United States. It allows its customers to trade digital currencies as well as transfer and store them. Brian Armstrong and Fred Ehrsham established the company in 2012 with the idea to enhance economic freedom of the world. Designed with beginners in mind, it opened the doors for millions of new users into the challenging and yet exciting world of crypto. Coinbase is known for its intuitive user-friendly interface and high level of security. Additionally, the company’s Web site is a helpful resource for new users to learn about crypto currencies and blockchain. 
