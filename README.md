@@ -35,5 +35,16 @@ Given the size of the company and growing number of the new players on arena, my
 
 ## Resources:
 
-* [Coinbase Website](https://en.bitcoinwiki.org/wiki/CoinBase)
+* [Coinbase Website](https://www.coinbase.com/about)
 * [Coinbase 1 Q Shareholder Letter](https://s27.q4cdn.com/397450999/files/doc_financials/2021/q1/Q1'21-COIN-Shareholder-Letter.pdf)
+* [Brian Armstrong open house presentation of 2019](https://www.youtube.com/watch?v=HQaegigv6jU)
+* [Brian Armstrong's interview with Garry Tan on cryptocurrency and future of decentralization](https://www.youtube.com/watch?v=UpbGbKQsTjc)
+* [What $1.8 Billion in Q1 Revenue Means for Coinbase’s Direct Listing. Unconfirmed Podcast by Laura Shin](https://unchainedpodcast.com/what-1-8-billion-in-q1-revenue-means-for-coinbases-direct-listing/)
+* [What is Coinbase's Strategy? By Brian Armstrong](https://medium.com/@barmstrong/what-is-coinbases-strategy-1c5413f6e09d#:~:text=Our%2520target%2520is%2520to%2520reach,monthly%2520transacting%2520users%2520and%2520beyond)
+* [Forbes on Coinbase's IPO](https://www.forbes.com/sites/jeffkauflin/2021/04/14/coinbases-ipo-creates-a-multibillion-dollar-windfall-for-founders-now-it-faces-five-big-threats/?sh=6fdf762461ff)
+* [Coinbase, Wikipedia](https://en.wikipedia.org/wiki/Coinbase)
+* [Coinbase, Investopedia](https://www.investopedia.com/tech/coinbase-what-it-and-how-do-you-use-it/)
+* [Coinbase Revenue and Usage Statistics](https://www.businessofapps.com/data/coinbase-statistics/)
+* [A Brief History of Decentralized Computing, by Eric Elliott](https://medium.com/the-challenge/a-brief-history-of-decentralized-computing-d0d665783bcf)
+* [Binance Website](https://www.binance.com/en)
+* [Kraken Website](https://www.kraken.com/en-us/)
