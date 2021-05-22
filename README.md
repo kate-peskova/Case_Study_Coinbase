@@ -35,5 +35,5 @@ Given the size of the company and growing number of the new players on arena, my
 
 ## Resources:
 
-* ![Coinbase Website](https://en.bitcoinwiki.org/wiki/CoinBase)
-* ![Coinbase 1 Q Shareholder Letter](https://s27.q4cdn.com/397450999/files/doc_financials/2021/q1/Q1'21-COIN-Shareholder-Letter.pdf)
+* [Coinbase Website](https://en.bitcoinwiki.org/wiki/CoinBase)
+* [Coinbase 1 Q Shareholder Letter](https://s27.q4cdn.com/397450999/files/doc_financials/2021/q1/Q1'21-COIN-Shareholder-Letter.pdf)
