@@ -1,4 +1,16 @@
 # Case_Study_Coinbase
 Case study on crypto exchange giant Coinbase
 
-![](Images/logo)
+## Overview and Origin
+
+Coinbase is one of the leading world’s crypto exchange platforms and the first crypto exchange platform operating in the United States. It allows its customers to trade digital currencies as well as transfer and store them. Brian Armstrong and Fred Ehrsham established the company in 2012 with the idea to enhance economic freedom of the world. Designed with beginners in mind, it opened the doors for millions of new users into the challenging and yet exciting world of crypto. Coinbase is known for its intuitive user-friendly interface and high level of security. Additionally, the company’s Web site is a helpful resource for new users to learn about crypto currencies and blockchain. 
+ 
+Since its inception, Coinbase has gone through exponential growth. On early stage, the emerging tech-company was funded by Y Combinator for the amount of $150,000. A year after that, a promising startup received $5 million Series A investment from Union Square Ventures investor, Fred Wilson. In just a few months after that, Coinbase received $25 million funding from Ribbit Capital, Andreessen Horowitz, and Union Square ventures. In 2015, Draper Fisher Jurveston funded the company with $75, which led to creation of Coinbase Pro, the company’s division for more upscale trading. In April 2021, Coinbase went public under the COIN ticker becoming the first crypto exchange company in the history of Nasdaq. As of beginning of 2021, the tech giant obtained 56+ million users gaining over $700 millions in profits with the revenue of $1,8 billion.  
+
+## Business Activities
+
+Coinbase’s global mission is to grow cryptoeconomy in order to enhance economic freedom. In his 2019 open house speech, Brian Armstrong outlined the steps to reaching this goal. These steps included acquiring and storing crypto, earning and using crypto, and starting new companies with crypto.
+For cryptoeconomy to develop and flourish, it needs more individuals and businesses to get involved. Coinbase’s objective is to obtain as many new users as possible. One of the Coinbase’s competitive advantage is a strong well-known brand. Potential new users are likely to join the well-known secure network rather than exploring something less familiar. Besides individual users, Coinbase is targeting professional traders and institutions to secure larger trading volumes. The company is a popular choice for other companies to serve them as custodian (Tesla is among the largest clients).
+
+Furthermore Coinbase is looking to venture out to create new applications and services (currently, they operate three applications: Coinbase, Coinbase Pro, Coinbase Wallet). In a meantime, the company is using other platforms to combine forces. For example, assets from Coinbase Wallet can be transferred to Compound Governance where users can accumulate compound interest on their investments. One of Coinbase’s well accepted marketing strategy is incorporating Earn campaigns, where new users can earn crypto currencies by learning about them. Finally, the company is acquiring smaller successful businesses to its benefit. A resent acquire is Bison Trails, an icloud platform, that is now used within Coinbase network, Counbase Cloud, to perform crypto transactions. 
+
